@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-06-11 14:18:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-05-07 11:40:44 +0800"
@@ -452,6 +458,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-05-07 11:42:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-06-11 13:48:52 +0800"
     },
     "done": true
   },
@@ -897,6 +909,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-05-07 12:00:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-06-11 13:48:54 +0800"
     },
     "done": true
   },
@@ -1422,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-06-11 13:48:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2020-05-07 11:37:54 +0800"
@@ -1479,6 +1503,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-05-07 11:37:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-06-11 13:48:52 +0800"
     },
     "done": true
   },
@@ -1554,9 +1584,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-06-11 13:48:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-05-16 19:39:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-06-11 13:48:52 +0800"
     },
     "done": true
   },
@@ -2189,5 +2231,5 @@
     },
     "done": true
   },
-  "DataVersion": 2557
+  "DataVersion": 2559
 }
